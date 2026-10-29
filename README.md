@@ -14,8 +14,7 @@ Das Projekt wurde von der rohen Datenbasis bis zur produktreifen Web-Anwendung i
   - Training eines Random-Forest-Modells (`flight_rf_model.pkl`) zur Vorhersage von Flugverspätungen basierend auf Datum, Uhrzeit und Fluggesellschaft.
 - **4. Entwicklung der Streamlit-App:**
   - Erstellung eines interaktiven Dashboards (`flt_delay_app.py`), das Nutzern ermöglicht, Flugdetails einzugeben und das Verspätungsrisiko live zu berechnen.
-- **5. Best Practices & Versionskontrolle:**
-  - Sauberer GitHub-Upload unter Ausschluss von sensiblen Datenmengen und lokalen Rohdateien (zur Einhaltung der 100-MB-Git-Limits).
+
 
 ## 🚀 Lokale Ausführung
 
