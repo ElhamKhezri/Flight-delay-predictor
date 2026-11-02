@@ -7,6 +7,7 @@ Das Projekt wurde von der rohen Datenbasis bis zur produktreifen Web-Anwendung i
 
 - **1. Datenerhebung & -bereitstellung:**
   - Verwendung umfangreicher Flugdatensätze (`flight_data_2024.csv`, ca. 1,31 GB) als Grundlage für die Analyse.
+    download data(https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024?select=flight_data_2024.csv)
 - **2. Explorative Datenanalyse (EDA) & Bereinigung:**
   - Untersuchung der Daten auf Muster, Trends und Korrelationen im Jupyter Notebook (`Flight_delay_project.ipynb`).
   - Bereinigung des Datensatzes (Behandlung von Fehlwerten, Filtern relevanter Features für Abflüge und Verspätungen).
